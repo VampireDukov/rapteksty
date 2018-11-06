@@ -1,0 +1,39 @@
+@font-face {
+    font-family: adler;
+    src: url(../fonts/adler.ttf);
+}
+
+div.text-container{
+    color: #b1021b;
+    font-family: adler;
+ 
+}
+
+div.song-container{
+    font-size: 1.7em;
+    text-align: justify;
+  
+}
+div.response{
+    margin-top: -20px;
+    background-color: #810319;
+}
+div.container{
+    
+    width: 60%;
+    margin: auto;
+    background-color:#041213 ;
+}
+div.author-container{
+    background-color: #b1021b
+}
+p.song{
+    padding: 20px 20px 20px 20px;
+}
+div.title-container{
+    background-color: #b1021b;
+    margin-top: -10px;
+    color:white;
+    font-size: 1.5em;
+    text-align: center;
+}

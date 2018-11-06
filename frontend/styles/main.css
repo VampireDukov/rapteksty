@@ -1,0 +1,45 @@
+@font-face {
+    font-family: menu-font;
+    src: url(../fonts/hvd_peace.ttf);
+}
+
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #041213;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0;
+}
+header{
+    display: flex;
+}
+nav{
+    width: 1600px;
+    margin-top: -62px;
+    background-image: url("../images/navbar.jpg");
+    background-size: cover; 
+    
+}
+ul{
+    border-bottom-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+li{
+    padding: 20px 30px 20px 30px;
+    display: inline-block;
+}
+li a{
+    font-family: menu-font;
+    font-size: 1.45em;
+    color: white;
+}
+img{
+    max-height: 200px;
+}
+
+
+

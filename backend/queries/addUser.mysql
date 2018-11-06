@@ -1,0 +1,8 @@
+INSERT INTO users (login,mail,password,name,city,avatar,ip_addr,reg_date,last_log_date,active,permissions,famous,rang,banned,warns) VALUES (:login,:mail,:password,0,0,0,:ip,:date,0,0,0,0,0,0,0 )
+
+
+
+
+   
+
+    
